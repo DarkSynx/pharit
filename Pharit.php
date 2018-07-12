@@ -26,7 +26,7 @@
 
 	echo PHP_EOL,PHP_EOL, '=== FINISH PHARIT ! ===', PHP_EOL,PHP_EOL;
 	
-	include data.phar;
+	include 'data.phar';
 	
 	
 	sleep(5);
